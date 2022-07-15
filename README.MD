@@ -7,4 +7,6 @@ O desenvolvimento deste projeto me ajudou a aprofundar meus conhecimentos em fle
 * HTML5
 * CSS3
 
-**[Linkedin](https://www.linkedin.com/in/cristiano-santos-dev/)**
+**[Linkedin](https://www.linkedin.com/in/cristiano-santos-dev/)** <br>
+
+**Por algum motivo está informando que o site não é seguro, mas, vocês podem conferir no código, só tem html e css. Espero que gostem :)**
